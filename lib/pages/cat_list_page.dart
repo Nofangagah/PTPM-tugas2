@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tugas2/components/favorite_button_page.dart';
 import '../data/cats.dart';
-import '../model/Cat.dart';
 import 'cat_detail_page.dart';
 
 
